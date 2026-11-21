@@ -7,4 +7,4 @@ seconds = remaining_seconds % 60
 
 print("Hours:", hours)
 print("Minutes:", minutes)
-print("Seconds: ", seconds)
+print("Seconds:", seconds)
